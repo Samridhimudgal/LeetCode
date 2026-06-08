@@ -8,6 +8,7 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0048-rotate-image](https://github.com/Samridhimudgal/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Samridhimudgal/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Samridhimudgal/LeetCode/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
@@ -25,4 +26,9 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Samridhimudgal/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
