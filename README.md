@@ -6,6 +6,7 @@ LeetCode solutions and DSA practice in C++
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Samridhimudgal/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Samridhimudgal/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -36,12 +37,14 @@ LeetCode solutions and DSA practice in C++
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Samridhimudgal/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
