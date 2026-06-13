@@ -12,6 +12,7 @@ LeetCode solutions and DSA practice in C++
 | [0074-search-a-2d-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Samridhimudgal/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -84,6 +85,7 @@ LeetCode solutions and DSA practice in C++
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -98,4 +100,8 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
