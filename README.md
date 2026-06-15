@@ -28,6 +28,7 @@ LeetCode solutions and DSA practice in C++
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Samridhimudgal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Samridhimudgal/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Samridhimudgal/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
@@ -99,6 +100,7 @@ LeetCode solutions and DSA practice in C++
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Samridhimudgal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Samridhimudgal/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -129,6 +131,7 @@ LeetCode solutions and DSA practice in C++
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Samridhimudgal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0206-reverse-linked-list) |
