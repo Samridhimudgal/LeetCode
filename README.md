@@ -29,6 +29,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Samridhimudgal/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Samridhimudgal/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Samridhimudgal/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
