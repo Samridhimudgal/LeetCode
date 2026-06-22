@@ -48,6 +48,7 @@ LeetCode solutions and DSA practice in C++
 | [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Samridhimudgal/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ LeetCode solutions and DSA practice in C++
 | [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +76,7 @@ LeetCode solutions and DSA practice in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -87,6 +90,7 @@ LeetCode solutions and DSA practice in C++
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -141,6 +145,7 @@ LeetCode solutions and DSA practice in C++
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Samridhimudgal/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
