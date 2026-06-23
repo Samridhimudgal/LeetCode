@@ -8,6 +8,7 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0015-3sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Samridhimudgal/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Samridhimudgal/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -23,6 +24,7 @@ LeetCode solutions and DSA practice in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Samridhimudgal/LeetCode/tree/master/0118-pascals-triangle) |
 ## Math
@@ -56,6 +58,7 @@ LeetCode solutions and DSA practice in C++
 | [0015-3sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -153,6 +156,7 @@ LeetCode solutions and DSA practice in C++
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -165,4 +169,8 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
