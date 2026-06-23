@@ -153,5 +153,10 @@ LeetCode solutions and DSA practice in C++
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
