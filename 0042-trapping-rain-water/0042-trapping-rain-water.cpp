@@ -6,7 +6,7 @@ public:
         vector<int> right(n);
         int leftMax = height[0];
         int rightMax = height[n-1];
-        left[0] = right[0];
+        left[0] = height[0];
         right[n-1] = height[n-1];
 
         for(int i=1; i<n; i++){
@@ -14,7 +14,7 @@ public:
             leftMax = max(leftMax, height[i]);
         }
 
-        for(int i=n-1; i>=0; i--){
+        for(int i=n-2; i>=0; i--){
             right[i] =rightMax;
             rightMax = max(rightMax, height[i]);
         }
