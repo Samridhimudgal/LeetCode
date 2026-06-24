@@ -8,12 +8,14 @@ public:
                 pq.push(matrix[i][j]);
             }
         }
-
-        while(k > 1) {
+         
+        int ans = 0;
+        while(k > 0) {
+            ans = pq.top();
             pq.pop();
             k--;
         }
 
-        return pq.top();
+        return ans;
     }
 };
