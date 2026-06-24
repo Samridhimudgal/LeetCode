@@ -20,6 +20,7 @@ LeetCode solutions and DSA practice in C++
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Samridhimudgal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -44,6 +45,7 @@ LeetCode solutions and DSA practice in C++
 | [0048-rotate-image](https://github.com/Samridhimudgal/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ LeetCode solutions and DSA practice in C++
 | [0215-kth-largest-element-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +78,7 @@ LeetCode solutions and DSA practice in C++
 | [0074-search-a-2d-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
@@ -186,6 +190,7 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
