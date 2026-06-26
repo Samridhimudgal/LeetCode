@@ -222,6 +222,7 @@ LeetCode solutions and DSA practice in C++
 | [0145-binary-tree-postorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Samridhimudgal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ LeetCode solutions and DSA practice in C++
 | [0145-binary-tree-postorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Samridhimudgal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,4 +252,8 @@ LeetCode solutions and DSA practice in C++
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Samridhimudgal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
