@@ -79,6 +79,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -87,6 +88,7 @@ LeetCode solutions and DSA practice in C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -217,6 +219,7 @@ LeetCode solutions and DSA practice in C++
 | [0144-binary-tree-preorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Samridhimudgal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@ LeetCode solutions and DSA practice in C++
 | [0144-binary-tree-preorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Samridhimudgal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
