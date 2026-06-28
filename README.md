@@ -186,11 +186,13 @@ LeetCode solutions and DSA practice in C++
 | [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/Samridhimudgal/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Samridhimudgal/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -199,6 +201,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Samridhimudgal/LeetCode/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,4 +271,8 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samridhimudgal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Samridhimudgal/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
