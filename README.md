@@ -18,6 +18,7 @@ LeetCode solutions and DSA practice in C++
 | [0200-number-of-islands](https://github.com/Samridhimudgal/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Samridhimudgal/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -164,6 +165,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samridhimudgal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Samridhimudgal/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Linked List
 |  |
 | ------- |
@@ -197,6 +199,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Samridhimudgal/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +209,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Samridhimudgal/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -275,4 +279,8 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Samridhimudgal/LeetCode/tree/master/0901-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Samridhimudgal/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
