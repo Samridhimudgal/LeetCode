@@ -15,6 +15,7 @@ LeetCode solutions and DSA practice in C++
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Samridhimudgal/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/Samridhimudgal/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Samridhimudgal/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
@@ -38,6 +39,7 @@ LeetCode solutions and DSA practice in C++
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Samridhimudgal/LeetCode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/Samridhimudgal/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
