@@ -35,6 +35,7 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Samridhimudgal/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0509-fibonacci-number) |
 ## Math
@@ -45,6 +46,7 @@ LeetCode solutions and DSA practice in C++
 | [0048-rotate-image](https://github.com/Samridhimudgal/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Samridhimudgal/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -293,5 +295,6 @@ LeetCode solutions and DSA practice in C++
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
