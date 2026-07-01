@@ -26,6 +26,7 @@ LeetCode solutions and DSA practice in C++
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Samridhimudgal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Samridhimudgal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Samridhimudgal/LeetCode/tree/master/0994-rotting-oranges) |
@@ -208,6 +209,7 @@ LeetCode solutions and DSA practice in C++
 | [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/Samridhimudgal/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -313,6 +315,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Samridhimudgal/LeetCode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
