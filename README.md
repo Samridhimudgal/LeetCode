@@ -53,6 +53,7 @@ LeetCode solutions and DSA practice in C++
 | [0050-powx-n](https://github.com/Samridhimudgal/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Samridhimudgal/LeetCode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -92,6 +93,7 @@ LeetCode solutions and DSA practice in C++
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -143,6 +145,7 @@ LeetCode solutions and DSA practice in C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samridhimudgal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
