@@ -6,6 +6,7 @@ LeetCode solutions and DSA practice in C++
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Samridhimudgal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -104,6 +105,7 @@ LeetCode solutions and DSA practice in C++
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Samridhimudgal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -123,6 +125,7 @@ LeetCode solutions and DSA practice in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Samridhimudgal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
