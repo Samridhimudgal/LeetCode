@@ -223,6 +223,7 @@ LeetCode solutions and DSA practice in C++
 | [0144-binary-tree-preorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Samridhimudgal/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0682-baseball-game) |
@@ -231,6 +232,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Samridhimudgal/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Samridhimudgal/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
@@ -274,6 +276,7 @@ LeetCode solutions and DSA practice in C++
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Samridhimudgal/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Samridhimudgal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samridhimudgal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -308,6 +311,7 @@ LeetCode solutions and DSA practice in C++
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samridhimudgal/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Samridhimudgal/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Samridhimudgal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samridhimudgal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -327,6 +331,7 @@ LeetCode solutions and DSA practice in C++
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Samridhimudgal/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samridhimudgal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Data Stream
@@ -351,4 +356,8 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Samridhimudgal/LeetCode/tree/master/0258-add-digits) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Samridhimudgal/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
