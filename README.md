@@ -195,6 +195,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samridhimudgal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -234,6 +235,7 @@ LeetCode solutions and DSA practice in C++
 | [0155-min-stack](https://github.com/Samridhimudgal/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Samridhimudgal/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Samridhimudgal/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/Samridhimudgal/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -281,6 +283,7 @@ LeetCode solutions and DSA practice in C++
 | [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samridhimudgal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -297,6 +300,7 @@ LeetCode solutions and DSA practice in C++
 | [0200-number-of-islands](https://github.com/Samridhimudgal/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samridhimudgal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -316,6 +320,7 @@ LeetCode solutions and DSA practice in C++
 | [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samridhimudgal/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -327,6 +332,7 @@ LeetCode solutions and DSA practice in C++
 | [0112-path-sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Samridhimudgal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Samridhimudgal/LeetCode/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Samridhimudgal/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
