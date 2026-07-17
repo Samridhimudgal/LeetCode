@@ -98,6 +98,7 @@ LeetCode solutions and DSA practice in C++
 | [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samridhimudgal/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -195,6 +196,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samridhimudgal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
