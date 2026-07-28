@@ -96,6 +96,7 @@ LeetCode solutions and DSA practice in C++
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +211,7 @@ LeetCode solutions and DSA practice in C++
 | [0151-reverse-words-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -397,4 +399,8 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0133-clone-graph](https://github.com/Samridhimudgal/LeetCode/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/Samridhimudgal/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
