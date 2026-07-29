@@ -69,6 +69,7 @@ LeetCode solutions and DSA practice in C++
 | [1822-sign-of-the-product-of-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Samridhimudgal/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -174,6 +175,7 @@ LeetCode solutions and DSA practice in C++
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Samridhimudgal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -190,10 +192,12 @@ LeetCode solutions and DSA practice in C++
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Samridhimudgal/LeetCode/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -214,6 +218,7 @@ LeetCode solutions and DSA practice in C++
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
