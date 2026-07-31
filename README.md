@@ -99,6 +99,7 @@ LeetCode solutions and DSA practice in C++
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -176,6 +177,7 @@ LeetCode solutions and DSA practice in C++
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Samridhimudgal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
@@ -193,6 +195,7 @@ LeetCode solutions and DSA practice in C++
 | [0229-majority-element-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -219,6 +222,7 @@ LeetCode solutions and DSA practice in C++
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -416,4 +420,5 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
