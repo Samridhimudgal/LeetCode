@@ -38,6 +38,7 @@ LeetCode solutions and DSA practice in C++
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Samridhimudgal/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Samridhimudgal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -55,6 +56,7 @@ LeetCode solutions and DSA practice in C++
 | [0516-longest-palindromic-subsequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ LeetCode solutions and DSA practice in C++
 | [0486-predict-the-winner](https://github.com/Samridhimudgal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Samridhimudgal/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -433,4 +436,13 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0486-predict-the-winner](https://github.com/Samridhimudgal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
