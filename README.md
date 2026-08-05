@@ -350,6 +350,7 @@ LeetCode solutions and DSA practice in C++
 | [0543-diameter-of-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samridhimudgal/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Samridhimudgal/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/Samridhimudgal/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -387,6 +388,7 @@ LeetCode solutions and DSA practice in C++
 | [0733-flood-fill](https://github.com/Samridhimudgal/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Samridhimudgal/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Samridhimudgal/LeetCode/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/Samridhimudgal/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -425,6 +427,7 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0133-clone-graph](https://github.com/Samridhimudgal/LeetCode/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/Samridhimudgal/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/Samridhimudgal/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Counting Sort
 |  |
 | ------- |
