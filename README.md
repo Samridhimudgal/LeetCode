@@ -7,6 +7,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Samridhimudgal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -115,6 +116,7 @@ LeetCode solutions and DSA practice in C++
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Samridhimudgal/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -435,6 +437,7 @@ LeetCode solutions and DSA practice in C++
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
