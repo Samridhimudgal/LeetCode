@@ -37,6 +37,7 @@ LeetCode solutions and DSA practice in C++
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Samridhimudgal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Samridhimudgal/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Samridhimudgal/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Samridhimudgal/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -111,6 +112,7 @@ LeetCode solutions and DSA practice in C++
 | [0268-missing-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -133,6 +135,7 @@ LeetCode solutions and DSA practice in C++
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0845-longest-mountain-in-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
