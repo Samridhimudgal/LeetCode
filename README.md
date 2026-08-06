@@ -86,6 +86,7 @@ LeetCode solutions and DSA practice in C++
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Samridhimudgal/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
@@ -476,4 +477,5 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
