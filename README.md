@@ -33,6 +33,7 @@ LeetCode solutions and DSA practice in C++
 | [0682-baseball-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Samridhimudgal/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Samridhimudgal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Samridhimudgal/LeetCode/tree/master/0994-rotting-oranges) |
@@ -140,6 +141,7 @@ LeetCode solutions and DSA practice in C++
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0493-reverse-pairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Samridhimudgal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Samridhimudgal/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -454,4 +456,8 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
