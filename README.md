@@ -64,6 +64,7 @@ LeetCode solutions and DSA practice in C++
 | [0845-longest-mountain-in-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ LeetCode solutions and DSA practice in C++
 | [0845-longest-mountain-in-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Samridhimudgal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +255,7 @@ LeetCode solutions and DSA practice in C++
 | [0516-longest-palindromic-subsequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -455,6 +458,7 @@ LeetCode solutions and DSA practice in C++
 | [0011-container-with-most-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
