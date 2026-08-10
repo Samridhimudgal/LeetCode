@@ -1,6 +1,7 @@
 class Solution {
 public:
-    vector<int> t;
+    vector<int> t; //tc: o(n * sqrt(n))
+    //sc: o(n)
 
     bool solve(int n){
 
