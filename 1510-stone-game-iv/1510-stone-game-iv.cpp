@@ -1,28 +1,18 @@
 class Solution {
 public:
-    vector<int> t; //tc: o(n * sqrt(n))
-    //sc: o(n)
+    bool winnerSquareGame(int n) {
+        vector<bool> t(n+1, false);
 
-    bool solve(int n){
+        t[n]=0; //base case
 
-        if(n==0){
-            return false;
-        }
-
-        if(t[n] != -1){
-            return t[n] == 1 ? true : false;
-        }
-
-        for(int k=1; k*k <= n; k++){
-            if(solve(n-(k*k)) == 0){
-                return t[n] = true;   //call for bob, h loses and alice wins
+        for(int i=1; i<n+1; i++){
+            for(int k=1; k*k<=i; k++){
+                if(t[i-(k*k)] == false){
+                    t[i] = true;
+                    break;
+                }
             }
         }
-        return t[n] = false;
-    }
-
-    bool winnerSquareGame(int n) {
-        t.assign(n+1, -1);
-        return solve(n);  //call for alice, if true alice wins if false she looses
+        return t[n];
     }
 };
