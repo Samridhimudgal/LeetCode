@@ -64,6 +64,7 @@ LeetCode solutions and DSA practice in C++
 | [0845-longest-mountain-in-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Samridhimudgal/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ LeetCode solutions and DSA practice in C++
 | [0509-fibonacci-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Samridhimudgal/LeetCode/tree/master/1510-stone-game-iv) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Samridhimudgal/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -465,14 +467,17 @@ LeetCode solutions and DSA practice in C++
 | [0486-predict-the-winner](https://github.com/Samridhimudgal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Samridhimudgal/LeetCode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Samridhimudgal/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Samridhimudgal/LeetCode/tree/master/1510-stone-game-iv) |
 ## Ternary Search
 |  |
 | ------- |
@@ -482,4 +487,12 @@ LeetCode solutions and DSA practice in C++
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Samridhimudgal/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Samridhimudgal/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Samridhimudgal/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
