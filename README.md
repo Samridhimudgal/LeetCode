@@ -46,6 +46,7 @@ LeetCode solutions and DSA practice in C++
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Samridhimudgal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -183,6 +184,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Samridhimudgal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -192,6 +194,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Samridhimudgal/LeetCode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Samridhimudgal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +258,7 @@ LeetCode solutions and DSA practice in C++
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Samridhimudgal/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Samridhimudgal/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Samridhimudgal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
