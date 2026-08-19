@@ -43,6 +43,7 @@ LeetCode solutions and DSA practice in C++
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Samridhimudgal/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Samridhimudgal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Samridhimudgal/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/Samridhimudgal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Samridhimudgal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -168,6 +169,7 @@ LeetCode solutions and DSA practice in C++
 | [0222-count-complete-tree-nodes](https://github.com/Samridhimudgal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Samridhimudgal/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/Samridhimudgal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Samridhimudgal/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -212,6 +214,7 @@ LeetCode solutions and DSA practice in C++
 | [0347-top-k-frequent-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samridhimudgal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Samridhimudgal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1386-cinema-seat-allocation](https://github.com/Samridhimudgal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samridhimudgal/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -467,6 +470,7 @@ LeetCode solutions and DSA practice in C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samridhimudgal/LeetCode/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/Samridhimudgal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samridhimudgal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Samridhimudgal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
