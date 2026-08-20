@@ -49,6 +49,7 @@ LeetCode solutions and DSA practice in C++
 | [1822-sign-of-the-product-of-an-array](https://github.com/Samridhimudgal/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Samridhimudgal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samridhimudgal/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Samridhimudgal/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Samridhimudgal/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -448,6 +449,7 @@ LeetCode solutions and DSA practice in C++
 | [0258-add-digits](https://github.com/Samridhimudgal/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Samridhimudgal/LeetCode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Samridhimudgal/LeetCode/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Samridhimudgal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
